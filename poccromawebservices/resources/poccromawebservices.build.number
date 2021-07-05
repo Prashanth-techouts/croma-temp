@@ -1,0 +1,9 @@
+#Ant properties
+#Tue Jul 07 09:56:19 CEST 2020
+builddate=20200707 0952
+description=poccromawebservices
+name=poccromawebservices
+releasedate=20180313 1012
+vendor=hybris
+version=6.7.0.31
+version.api=6.7.0
